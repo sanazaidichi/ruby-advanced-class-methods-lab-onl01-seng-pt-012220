@@ -58,7 +58,9 @@ song.artist_name = info[0]
 song 
 end 
 
-def 
+def self.destroy_all
+  @@all.
+end 
 
 
 end
